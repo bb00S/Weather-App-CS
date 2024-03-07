@@ -6,7 +6,7 @@ This Weather Application is built using C# and utilizes the OpenWeatherMap API t
 
 ## Features
 Current Weather: Get real-time weather updates for any location worldwide.
-Forecast: View the weather forecast for the next few days.
+
 Customization: Easily configure settings to suit your preferences.
 ## How to Use
 
